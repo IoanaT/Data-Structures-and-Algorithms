@@ -1,4 +1,4 @@
-package interleavingStrings;
+package interleaving.strings;
 
 import java.util.HashMap;
 import java.util.Map;

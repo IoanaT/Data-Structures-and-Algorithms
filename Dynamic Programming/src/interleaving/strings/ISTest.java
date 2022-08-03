@@ -1,4 +1,4 @@
-package interleavingStrings;
+package interleaving.strings;
 
 import org.junit.jupiter.api.Test;
 
