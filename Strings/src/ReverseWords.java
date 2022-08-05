@@ -1,7 +1,9 @@
-// Importing required functions
-import java.util.*;
+/**
+ * Given a sentence (an array of characters), reverse the order of its words.
+ */
 
 class ReverseWords {
+
     // Null terminating strings are not used in java
     public static void strRev(char[] str, int start, int end) {
         // return if string is null or length of string is less than 2
